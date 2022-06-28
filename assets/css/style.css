@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@200&display=swap');
+body{
+    font-family: 'Trispace', sans-serif;
+    background-color: rgb(161, 116, 204);
+}
+.tamañoImg{
+    width: 64px;
+}
+.tamañoTitle{
+    font-size: 35px;
+    font-optical-sizing: 20px;
+    color: yellow;
+}
+.navbar{
+    background-color: green;
+}
