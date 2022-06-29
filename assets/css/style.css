@@ -38,8 +38,6 @@ form{
     border-radius: 12px;
 }
 #hero{
-    display: flex;
-    align-items: center;
     justify-content: center;
     text-align: center;
     flex-direction: column;
@@ -59,21 +57,12 @@ form{
     font-size: 50px;
     font-family: 'Diplomata SC', cursive;
 }
-#hero button{
-        font-size: 20px;
-        font-weight: bold;
-        padding: 10px 20px;
-        border-radius: 10px;
-        border: 1px solid black;
-        box-shadow: 1px 1px 5px black;
-        color:black;
-        background-color:thistle;
-        margin-top: 20px;
+textarea{
+    min-height: 200px;
+    min-width: 100%;
+    resize: none;
 }
-#hero ul{
-    text-decoration: none;
-    color: rgb(229, 147, 23);
-}
+
 
 
 
